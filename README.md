@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Dunith Munasingha and I'm a Software Engineer, from Sri Lanka</h2>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 <div align="center">
@@ -10,7 +9,7 @@
 ###
 
 <img align="right" height="150" src="[https://ibb.co/fQsNw2z](https://i.ibb.co/fQsNw2z/8hsng7.gif)"/>
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6NktCm7/8hsng7.gif" alt="8hsng7" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>cancel telkom account</a><br />
 ###
 
 <div align="left">
