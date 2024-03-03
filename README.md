@@ -7,9 +7,7 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.ibb.co/fQsNw2z/8hsng7.gif"/>
-<a href="https://imgbb.com/"><img align="right" src="https://i.ibb.co/6NktCm7/8hsng7.gif" alt="8hsng7" border="0"></a>
+<img align="right" height="150" src="https://i.ibb.co/1TWMcmg/8hso9c.gif"/>
 ###
 
 <div align="left">
